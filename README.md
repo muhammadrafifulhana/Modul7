@@ -1,6 +1,3 @@
-Berikut adalah penjelasan ringkas untuk setiap program yang telah dibuat, yang mencakup keseluruhan Alur Program dan mudah dipahami oleh pemula:
-
----
 
 ## Soal Latihan: 1
 ### **Program Menghitung Jarak dan Posisi Titik dalam Lingkaran**
