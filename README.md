@@ -14,6 +14,7 @@ Berikut adalah penjelasan ringkas untuk setiap program yang telah dibuat, yang m
    - Input dua lingkaran dan sebuah titik.
    - Menentukan apakah titik berada di dalam salah satu atau kedua lingkaran berdasarkan jaraknya dengan pusat lingkaran.
 5. **Output**
+
    <img width="842" alt="Screenshot 2024-11-22 at 6 26 59 PM" src="https://github.com/user-attachments/assets/a74f394c-4958-4e97-af2e-3afc432f7d89">
 
 
@@ -34,6 +35,7 @@ Berikut adalah penjelasan ringkas untuk setiap program yang telah dibuat, yang m
    - Menggunakan array untuk menyimpan elemen.
    - Menggunakan perulangan untuk memanipulasi dan menampilkan array.
 4. **Output**
+
    <img width="834" alt="Screenshot 2024-11-22 at 6 32 07 PM" src="https://github.com/user-attachments/assets/bb51601b-487c-455f-b98d-03462d87dbed">
    <img width="323" alt="Screenshot 2024-11-22 at 6 34 26 PM" src="https://github.com/user-attachments/assets/8714f20d-f286-4433-a1f5-933df0f4ab0c">
    <img width="305" alt="Screenshot 2024-11-22 at 6 34 37 PM" src="https://github.com/user-attachments/assets/2b007dda-8a4e-4a4a-a573-7a1b0afd4223">
@@ -55,6 +57,7 @@ Berikut adalah penjelasan ringkas untuk setiap program yang telah dibuat, yang m
    - **Input Skor**: Pengguna memasukkan skor pertandingan.
    - **Penentuan Pemenang**: Program membandingkan skor dan menentukan pemenang atau "Draw".
 4. **Output**
+
    <img width="732" alt="Screenshot 2024-11-22 at 6 48 05 PM" src="https://github.com/user-attachments/assets/1c1d09ec-1366-49e1-96cd-66fd51ff2a49">
 
 ---
@@ -73,5 +76,6 @@ Berikut adalah penjelasan ringkas untuk setiap program yang telah dibuat, yang m
    - Program membaca teks yang dimasukkan dan menyimpannya dalam array.
    - Program membalikkan array dan memeriksa apakah teks tersebut palindrom.
 4. **Output**
+
    <img width="842" alt="Screenshot 2024-11-22 at 6 26 59 PM" src="https://github.com/user-attachments/assets/0854a583-a271-44af-922a-f619bf42ac91">
 ---
